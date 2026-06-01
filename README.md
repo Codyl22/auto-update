@@ -23,15 +23,18 @@ A robust, intelligent, and interactive Bash script designed to automatically upd
 ```bash
 git clone [https://github.com/Codyl22/YOUR_REPO_NAME.git](https://github.com/Codyl22/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
+```
 
 ### 2. Make the script excecutable
 ```bash
 chmod +x auto-update.sh
+```
 
 ### 3. Run the script
 To excetute the script with the required administrative privileges :
 ```bash
 sudo ./auto-update.sh
+```
 
 ## Project Struture
 auto-update.sh : The main Bash script containing all the logic
